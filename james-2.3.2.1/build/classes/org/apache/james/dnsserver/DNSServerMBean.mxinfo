@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE mxinfo PUBLIC "-//PHOENIX/Mx Info DTD Version 1.0//EN"
+                  "http://jakarta.apache.org/avalon/dtds/phoenix/mxinfo_1_0.dtd">
+
+<mxinfo>
+
+    <topic name="DNSServer" >
+
+      <!-- attributes -->
+
+      <!-- operations -->
+
+      <operation
+        name="getDNSServers"
+        description=""
+        type="java.lang.String[]">
+      </operation>
+
+    </topic>
+
+</mxinfo>

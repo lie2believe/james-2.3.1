@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE mxinfo PUBLIC "-//PHOENIX/Mx Info DTD Version 1.0//EN"
+                  "http://jakarta.apache.org/avalon/dtds/phoenix/mxinfo_1_0.dtd">
+
+<mxinfo>
+
+    <topic name="RemoteManager" >
+
+      <!-- attributes -->
+      <attribute
+        name="enabled"
+        description="Returns flag indicating it this service is enabled"
+        type="boolean"
+      />
+      <attribute
+        name="networkInterface"
+        description="Returns the address if the network interface the socket is bound to"
+        type="java.lang.String"
+      />
+      <attribute
+        name="port"
+        description="Returns the port that the service is bound to"
+        type="int"
+      />
+      <attribute
+        name="socketType"
+        description="Returns the server socket type, plain or SSL"
+        type="java.lang.String"
+      />
+
+      <!-- operations -->
+
+
+    </topic>
+
+</mxinfo>

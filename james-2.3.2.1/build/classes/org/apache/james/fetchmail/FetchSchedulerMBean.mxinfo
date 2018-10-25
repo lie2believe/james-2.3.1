@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE mxinfo PUBLIC "-//PHOENIX/Mx Info DTD Version 1.0//EN"
+                  "http://jakarta.apache.org/avalon/dtds/phoenix/mxinfo_1_0.dtd">
+
+<mxinfo>
+
+    <topic name="FetchScheduler,type=Mail" >
+
+      <!-- attributes -->
+      <attribute
+        name="enabled"
+        description="Returns flag indicating it this service is enabled"
+        type="boolean"
+      />
+
+      <!-- operations -->
+
+
+    </topic>
+
+</mxinfo>
